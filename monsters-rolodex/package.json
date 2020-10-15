@@ -2,7 +2,6 @@
   "name": "monsters-rolodex",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://saba756.github.io/monsters-rolodex",
   "dependencies": {
     "@testing-library/jest-dom": "^4.2.4",
     "@testing-library/react": "^9.3.2",
@@ -15,9 +14,7 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject",
-    "predeploy": "yarn-build",
-    "deploy": "master -d build"
+    "eject": "react-scripts eject"
   },
   "eslintConfig": {
     "extends": "react-app"
